@@ -11,9 +11,14 @@ Violation Logic: Analyzes vehicle movement to determine if a full stop occurred 
 
 Data Driven: Processed using Python and specialized Computer Vision libraries.
 
+Model Details
+
+The system utilizes a trained YOLO (You Only Look Once) model for high-accuracy object detection. The model weights are stored in the best.pt file.
+You can download the trained model weights from the following link:
+https://drive.google.com/file/d/1ryqWDbz4VCG8BB0uXWYa1mv2CgPSiF3F/view?usp=sharing
+
 Dataset and Videos
 Since the video files used for this project are large, they are not hosted directly on GitHub. You can access the raw footage and the test datasets through the following link:
-
 https://drive.google.com/drive/folders/1OpQCJ8xOb0e8a2Syvn9teBk9EfZYbuww?usp=sharing
 
 Technologies Used
