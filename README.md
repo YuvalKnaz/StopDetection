@@ -29,7 +29,7 @@ Libraries: OpenCV, NumPy, and Deep Learning frameworks
 Platform: Google Colab
 
 **How to Run**
-1. Open the `Stop_Sign_Detection.ipynb` file in this repository.
+1. Open the `Stop.ipynb` file in this repository.
 2. Click the "Open in Colab" button at the top of the notebook.
 3. Run **Block 1** to install all necessary dependencies (YOLO, OpenCV, etc.).
 4. Mount your Google Drive when prompted to access the model and videos.
