@@ -34,3 +34,4 @@ Platform: Google Colab
 3. Run **Block 1** to install all necessary dependencies (YOLO, OpenCV, etc.).
 4. Mount your Google Drive when prompted to access the model and videos.
 5. Run **Block 2** and provide the path to your video file to start the detection process.
+6. גגגבגבגבגבגבגבגבגבגב
